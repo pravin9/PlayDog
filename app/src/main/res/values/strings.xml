@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Dogs and Breeds 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="identify_breed_label">Identify the Breed</string>
+    <string name="identify_dog_label">Identify the Dog</string>
+    <string name="search_dog_breeds_label">Search Dog Breeds</string>
+    <string name="answer">TextView</string>
+    <string name="dog_breed_images_desc">Dog Breed Images</string>
+    <string name="next_button">Next</string>
+    <string name="submit_label">Submit</string>
+    <string name="correct"><font fgcolor="green">CORRECT!</font></string>
+    <string name="wrong"><font fgcolor="red">WRONG!</font></string>
+    <string name="golden_retriever"><font fgcolor="blue">Golden Retriever</font></string>
+    <string name="boxer"><font fgcolor="blue">Boxer</font></string>
+    <string name="german_shepherd"><font fgcolor="blue">German Shepherd</font></string>
+    <string name="labrador_retriever"><font fgcolor="blue">Labrador Retriever</font></string>
+    <string name="rottweiler"><font fgcolor="blue">Rottweiler</font></string>
+    <string name="boston_bull"><font fgcolor="blue">Boston Bull</font></string>
+    <string name="doberman"><font fgcolor="blue">Doberman</font></string>
+    <string name="pomeranian"><font fgcolor="blue">Pomeranian</font></string>
+    <string name="pug"><font fgcolor="blue">Pug</font></string>
+    <string name="bull_mastiff"><font fgcolor="blue">Bull Mastiff</font></string>
+    <string name="random_dog_image_desc">Random Dog Image</string>
+    <string name="slideshow_images">slideshow images</string>
+    <string name="enter_the_breed">Enter the Breed</string>
+    <string name="stop_button">Stop</string>
+    <string name="game_level">Game Level</string>
+    <string-array name="breed_names">
+        <item>Golden Retriever</item>
+        <item>Boxer</item>
+        <item>German Shepherd</item>
+        <item>Labrador Retriever</item>
+        <item>Rottweiler</item>
+        <item>Boston Bull</item>
+        <item>Doberman</item>
+        <item>Pomeranian</item>
+        <item>Pug</item>
+        <item>Bull Mastiff</item>
+    </string-array>
+</resources>
